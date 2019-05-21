@@ -1,0 +1,5087 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04606456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04596456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045864560000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045764560000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045664560000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045564560000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045464560000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045364560000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045264560000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045164560000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.045064560000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044964560000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044864560000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044764560000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044664560000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044564560000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044464560000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044364560000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044264560000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044164560000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.044064560000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043964560000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043864560000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043764560000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043664560000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043564560000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043464560000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043364560000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043264560000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.043164560000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04306456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04296456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04286456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04276456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04266456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04256456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04246456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04236456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04226456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04216456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04206456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04196456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04186456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04176456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.04166456000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.041564560000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.041464560000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.041364560000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.041264560000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.041164560000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.041064560000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040964560000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040864560000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040764560000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040664560000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040564560000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040464560000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040364560000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040264560000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040164560000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.040064560000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039964560000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039864560000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039764560000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039664560000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039564560000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039464560000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039364560000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039264560000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039164560000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.039064560000018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.038964560000018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.038864560000018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.03876456000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20927095,
+          -30.03866456000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Santana - 74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04530302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04520302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04510302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04500302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04490302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04480302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04470302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04460302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04450302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04440302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04430302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04420302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04410302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04400302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043903020000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043803020000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043703020000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043603020000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043503020000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043403020000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043303020000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043203020000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043103020000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.043003020000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042903020000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042803020000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042703020000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042603020000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042503020000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042403020000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042303020000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042203020000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042103020000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.042003020000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.041903020000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.041803020000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.041703020000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.041603020000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.041503020000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.041403020000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.041303020000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.041203020000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04110302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04100302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04090302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04080302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04070302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04060302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04050302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04040302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04030302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04020302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04010302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.04000302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.03990302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.03980302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.03970302000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.039603020000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.039503020000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.039403020000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.039303020000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.039203020000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.039103020000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.039003020000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.038903020000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.038803020000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.038703020000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20801568,
+          -30.038603020000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Gomes Jardim - 67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04840489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04830489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04820489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04810489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04800489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04790489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047804890000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047704890000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047604890000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047504890000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047404890000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047304890000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047204890000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047104890000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.047004890000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046904890000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046804890000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046704890000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046604890000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046504890000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046404890000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046304890000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046204890000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046104890000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.046004890000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045904890000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045804890000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045704890000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045604890000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045504890000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045404890000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045304890000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045204890000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.045104890000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04500489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04490489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04480489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04470489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04460489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04450489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04440489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04430489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04420489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04410489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04400489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04390489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04380489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04370489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.04360489000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.043504890000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.043404890000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.043304890000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.043204890000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.043104890000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.043004890000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042904890000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042804890000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042704890000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042604890000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042504890000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042404890000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042304890000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042204890000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042104890000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.042004890000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.041904890000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.041804890000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.041704890000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.041604890000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.21031165,
+          -30.041504890000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua Leopordo Bier - 69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04450431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04440431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04430431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04420431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04410431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.044004310000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043904310000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043804310000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043704310000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043604310000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043504310000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043404310000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043304310000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043204310000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043104310000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.043004310000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042904310000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042804310000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042704310000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042604310000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042504310000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042404310000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042304310000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042204310000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042104310000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.042004310000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.041904310000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.041804310000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.041704310000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.041604310000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.041504310000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.041404310000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.041304310000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04120431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04110431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04100431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04090431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04080431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04070431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04060431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04050431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04040431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04030431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04020431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04010431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.04000431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.03990431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.03980431000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.039704310000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20662093,
+          -30.039604310000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Rua São Luiz - 49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04931501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04921501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04911501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04901501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04891501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048815010000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048715010000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048615010000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048515010000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048415010000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048315010000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048215010000003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048115010000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.048015010000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047915010000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047815010000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047715010000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047615010000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047515010000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047415010000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047315010000005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047215010000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047115010000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.047015010000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.046915010000006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.046815010000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.046715010000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.046615010000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.046515010000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.046415010000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.046315010000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.046215010000008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04611501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04601501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04591501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04581501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04571501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04561501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04551501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04541501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04531501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04521501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04511501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04501501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04491501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04481501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04471501000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.044615010000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.044515010000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.044415010000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.044315010000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.044215010000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.044115010000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.044015010000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043915010000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043815010000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043715010000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043615010000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043515010000014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043415010000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043315010000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043215010000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043115010000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.043015010000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042915010000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042815010000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042715010000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042615010000016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042515010000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042415010000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042315010000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042215010000017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042115010000018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.042015010000018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.041915010000018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04181501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04171501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04161501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04151501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04141501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04131501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04121501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04111501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04101501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04091501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04081501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04071501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04061501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04051501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.04041501000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.040315010000022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.040215010000022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.040115010000022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.040015010000022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.039915010000023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.039815010000023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.039715010000023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.039615010000023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.039515010000024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 98"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.20986104,
+          -30.039415010000024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "district": "SANATANA",
+        "address": "Avenida Princesa Isabel - 99"
+      },
+      "type": "Feature"
+    }
+  ]
+}
